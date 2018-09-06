@@ -1,0 +1,20 @@
+Antes de empezar:
+1. Debes tener instalado GIT. https://desktop.github.com/
+2. Intalar NodeJS. https://nodejs.org/es/
+3. Instalar Angular CLI. https://angular.io/guide/quickstart
+4. Un IDE con soporte de GitHub, mi recomendacion es Atom. https://atom.io/
+5. CMD para windows o la terminal en Linux. (Indispensable conocer comando básicos).
+
+Para iniciar el proyecto.
+1. Debes clonar este repositorio.
+2. Entrar a la raíz de la carpeta del proyecto, Ejercicio-Angular.
+3. Cambiarse a su rama con el comando "git checkout <su nombre de usuario de git>" en donde su nombre de usuario es el que me proporcionaron todo con minúsculas.
+4. Abrir el IDE con todo el proyecto.
+5. Una vez en la dentro de la carpeta, instala las dependencias con el comando "npm install".
+6. Una vez instaladas las dependencias corremos el comando "ng serve --watch -o" automáticamente abrirá tu navegador y podrás ver la pantalla inicial de Angular.
+7. Abrir el inspector de su navegador con clic derecho > inspeccionar.
+8. Revisar las carpetas y archivos dentro de la carpeta src para que se familiaricen con el contenido y la estructura de las carpetas.
+
+Instrucciones del ejercicio.
+
+Vamos a crear una lista dinámica que va a traer datos desde una API, vamos a ver ruteo de vistas, Rest API con metodo get y post.
